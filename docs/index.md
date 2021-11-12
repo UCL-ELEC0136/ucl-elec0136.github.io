@@ -13,13 +13,13 @@ Since the final graded assignment will be managed through GitHub Classroom, it i
 - How to ask for help and review
 
 
-## Using GitHub
+### Using GitHub
 If this is your first time using GitHub, it would be useful to complete the _Git & GitHub Fundamentals_ assignment at https://classroom.github.com/a/c5Me39XH.
 This assignment illustrates the basic functionalities of GitHub and how to work with them.
 <b><u>Please make sure you work on the `feedback` branch!</u></b>
 
 
-## Accepting an assignment
+### Accepting an assignment
 Assignments will be distributed on the Moodle forum. You will find a link for each assignment. Once clicking on the link, you will have to accept the assignment. 
 When accepting an assignment, you will receive a repository to work on, one for each assignment.
 For example, if Katy accepted the assignment _DAPS 1: Data Acquisition_, Katy will receive a personal repository to work on it named `daps-1-data-acquisition-katy`, where `katy` is your GitHub username.
