@@ -5,7 +5,8 @@ collection: labs
 entries_layout: grid
 ---
 
-# Data Acquisition and Processing Systems (DAPS) (ELEC0136)
+# UCL ELEC0136
+# Data Acquisition and Processing Systems
 
 Welcome to the material of the _Data Acquisition and Processing Systems_ (DAPS) course ELEC0136 at UCL.
 We are going to use GitHub Classroom to manage the programming exercises and final assignment.
