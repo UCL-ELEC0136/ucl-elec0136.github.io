@@ -1,5 +1,4 @@
 ---
-title: Data Acquisition and Processing Systems (DAPS) (ELEC0136)
 layout: collection
 collection: labs
 entries_layout: grid
