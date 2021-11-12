@@ -1,2 +1,9 @@
-# ucl-elec0136.github.io
-Source code for the website of the UCL course ELEC0136
+---
+title: Data Acquisition and Processing Systems (DAPS) (ELEC0136)
+layout: collection
+permalink: /labs/
+collection: labs
+entries_layout: grid
+---
+
+Sample document listing for the collection `_recipes`.
