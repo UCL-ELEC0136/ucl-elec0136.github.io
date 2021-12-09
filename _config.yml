@@ -18,21 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eduardo Pignatelli, Machine Learning Scientist
-email: edu.pignatelli@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello there, I am Eduardo, researcher in AI.
-  I currently research Continual Learning in the context of
-  Multiagent Reinforcement Learning. I am a PhD candidate at the
-  Learning and Signal Processing (LASP) at University College London (UCL).
+title: Data Acquisition and Processing Systems (DAPS) - UCL-ELEC0136
+email: lasp@ucl.ac.uk
+description: Material of the laboratories of the UCL-ELEC0136 course at University College London (UCL)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://epignatelli.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: EduPignatelli
-github_username:  epignatelli
-linkedin_username: eduardo-pignatelli
+url: "https://ucl-elec0136.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: UCL_LASP
+github_username:  UCL-ELEC0136
+# linkedin_username: eduardo-pignatelli
 
 # Addons
-google_analytics: UA-186052216-1
+# google_analytics: UA-186052216-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
